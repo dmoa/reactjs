@@ -1,0 +1,32 @@
+- sign up / log ins + hashes n stuff
+
+- some interactive thing between the users
+    - cards against humanity style
+
+
+
+EXECUTIVE SUMMARY
+Interactive Multiplayer Fill in the blank game in the style of "cards against humanity"
+
+PROBLEM DEFINITION
+People love shock factor and there's nothing like this online.
+
+MAIN FEATURES
+- user accounts
+- lots of fill in the blank paragraphs
+- choose between options of cards
+- (make your own parag & cards)
+
+FIRST TIME VISITING PAGE
+- this game is about blah blah blah
+- login
+- signup
+
+LOGGED IN
+- play game
+    - public
+    - private
+    - make own game
+- create paragraph
+    - cards
+    - para
